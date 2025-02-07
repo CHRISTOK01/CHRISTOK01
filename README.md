@@ -8,6 +8,8 @@
 
 [<img align="left" alt="CHRISTOK01 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CHRISTOK01 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CHRISTOK01 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [instagram]: https://www.instagram.com/christokachappilly/
 [linkedin]: https://www.linkedin.com/in/christokachappilly/
+[facebook]: https://www.facebook.com/profile.php?id=100078732037369
