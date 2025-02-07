@@ -6,8 +6,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="CHRISTOK01 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #0A66C2;" />][linkedin]
-[<img align="left" alt="CHRISTOK01 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: #E4405F;" />][instagram]
+[<img align="left" alt="CHRISTOK01 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CHRISTOK01 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/christokachappilly/
 [linkedin]: https://www.linkedin.com/in/christokachappilly/
