@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christo! <br/><a href="https://github.com/CHRISTOK01">Programmer</a> and <a href="https://github.com/CHRISTOK01">Data Scientist</a></h1>
+<h1>Hi, I'm Christo! <br/><a href="https://github.com/CHRISTOK01/password-strength-checker">Programmer</a> and <a href="https://github.com/CHRISTOK01">Data Scientist</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
