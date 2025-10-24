@@ -8,7 +8,6 @@
 
 - <b>Djnago Project</b>
   - [LearnABLE](https://github.com/KiddKailash/LearnABLE)
-  - 
 
 
 <h2> 🤳 Connect with me:</h2>
